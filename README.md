@@ -1,6 +1,17 @@
-# Girish-portfolio-website
-
-# Designed and implemented personal portfolio using Html , CSS javascript for efficient front-end and back-end 
-communication 
-# Hosted website on Cloud Platform for secure, scalable, and reliable hosting.
-# Utilized Github for seamlessly for efficient website development and code management.
+<p align="center">
+  <br>
+  
+  <img width="150" src="https://thedise.me/src/images/hi.webp">
+ 
+  <br>
+  <samp>
+    <i>Yo!</i> I'm <b>Dise</b>.
+    <br> 
+    I'm a developer from Ukraine.
+    <br>
+    <br>
+  </samp>
+  
+  <br>
+  <br>
+</p>
