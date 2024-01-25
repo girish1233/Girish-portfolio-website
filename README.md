@@ -5,9 +5,9 @@
  
   <br>
   <samp>
-    <i>Yo!</i> I'm <b>Dise</b>.
+    <i>Yo!</i> I'm <b>Girish</b>.
     <br> 
-    I'm a developer from Ukraine.
+    I'm a developer from Delhi , India 
     <br>
     <br>
   </samp>
